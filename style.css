@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+}
+
+header{
+    
+    width: 100%;
+  
+}
+
+.head{
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+
+
+.logo{
+    width: 190px;
+}
+
+.heada{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-right: 50px;
+
+}
+
+.menua{
+    font-size: 10px;
+    color: #71624f;
+}
+
+.menua:hover{
+    color: #e76819;
+}
+
+.bar{
+    color: #71624f;
+    margin-top: 20px;
+    border: solid 1px #71624f;
+    width: 100%;
+
+}
+
+.barr{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+    
+}
+
+.soc{
+    margin-left: 25%;
+    font-size: 12px;
+}
+
+.boutnav{
+    background-color: transparent;
+    width: 200px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    border-left: solid 1px #71624f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #71624f;
+
+}
+
+.bout{
+   display: flex;
+   width: 100%;
+
+}
+
+.boutoa{
+    border: none;
+    background-color: #71624f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+
+.boutob{
+    background-color: #e76819;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sectiona{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+
+}
+
+.imga{
+    display: flex;
+    width: 47%;
+    height: 250px;
+    margin-bottom: 10px;
+    
+}
+
+.ima{
+    width: 100%;
+    margin-right: 4%;
+}
+
+.ima:hover{
+    cursor: pointer;
+}
